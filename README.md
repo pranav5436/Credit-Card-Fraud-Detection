@@ -84,7 +84,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-This project was created by Pranav Shukla. 
+This project is created by Pranav Shukla. 
 
 ---
 
